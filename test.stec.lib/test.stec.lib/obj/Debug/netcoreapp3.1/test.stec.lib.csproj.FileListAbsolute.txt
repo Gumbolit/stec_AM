@@ -1,0 +1,14 @@
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\bin\Debug\netcoreapp3.1\test.stec.lib.exe
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\bin\Debug\netcoreapp3.1\test.stec.lib.deps.json
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\bin\Debug\netcoreapp3.1\test.stec.lib.runtimeconfig.json
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\bin\Debug\netcoreapp3.1\test.stec.lib.runtimeconfig.dev.json
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\bin\Debug\netcoreapp3.1\test.stec.lib.dll
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\bin\Debug\netcoreapp3.1\test.stec.lib.pdb
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\bin\Debug\netcoreapp3.1\stec.lib.dll
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\bin\Debug\netcoreapp3.1\stec.lib.pdb
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\obj\Debug\netcoreapp3.1\test.stec.lib.csprojAssemblyReference.cache
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\obj\Debug\netcoreapp3.1\test.stec.lib.AssemblyInfoInputs.cache
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\obj\Debug\netcoreapp3.1\test.stec.lib.AssemblyInfo.cs
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\obj\Debug\netcoreapp3.1\test.stec.lib.csproj.CopyComplete
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\obj\Debug\netcoreapp3.1\test.stec.lib.dll
+C:\Users\IEUser\Source\Repos\test.stec.lib\test.stec.lib\obj\Debug\netcoreapp3.1\test.stec.lib.pdb

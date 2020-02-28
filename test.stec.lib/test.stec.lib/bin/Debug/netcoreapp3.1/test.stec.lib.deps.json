@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "test.stec.lib/1.0.0": {
+        "dependencies": {
+          "stec.lib": "1.0.0"
+        },
+        "runtime": {
+          "test.stec.lib.dll": {}
+        }
+      },
+      "stec.lib/1.0.0": {
+        "runtime": {
+          "stec.lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test.stec.lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "stec.lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
